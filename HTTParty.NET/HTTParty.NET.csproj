@@ -8,7 +8,7 @@
     <ProjectGuid>{F4BF8F94-C750-41C6-A394-CD24488303E2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HTTParty.NET</RootNamespace>
+    <RootNamespace>httparty</RootNamespace>
     <AssemblyName>HTTParty.NET</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -45,7 +45,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HTTParty.cs" />
+    <Compile Include="Party.cs" />
+    <Compile Include="Response.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

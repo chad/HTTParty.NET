@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using NUnit.Framework;
+using httparty;
 
 namespace HTTPartyTests
 {
@@ -10,9 +11,9 @@ namespace HTTPartyTests
     public class HTTPartyTest
     {
         [Test]
-        public void CanCallGetWithURL() 
+        public void CallToGetReturnsHTTPartyResponseObject() 
         {
-            Assert.AreEqual(1, 2);
+            Assert.That(httparty.Party.Get("http://foo.com"), Is.InstanceOf(typeof(httparty.Response)));
         }
     }
 }
