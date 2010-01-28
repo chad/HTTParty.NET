@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual C# Express 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTParty.NET", "HTTParty.NET\HTTParty.NET.csproj", "{F4BF8F94-C750-41C6-A394-CD24488303E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPartyTests", "HTTPartyTests\HTTPartyTests.csproj", "{C4805518-D37F-4263-8229-9FB343FF5B46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{F4BF8F94-C750-41C6-A394-CD24488303E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4BF8F94-C750-41C6-A394-CD24488303E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4BF8F94-C750-41C6-A394-CD24488303E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4805518-D37F-4263-8229-9FB343FF5B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4805518-D37F-4263-8229-9FB343FF5B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4805518-D37F-4263-8229-9FB343FF5B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4805518-D37F-4263-8229-9FB343FF5B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+c:\Users\Chad\src\HTTParty.NET\HTTParty.NET\bin\Release\HTTParty.NET.dll
+c:\Users\Chad\src\HTTParty.NET\HTTParty.NET\bin\Release\HTTParty.NET.pdb
+c:\Users\Chad\src\HTTParty.NET\HTTParty.NET\obj\Release\ResolveAssemblyReference.cache
+c:\Users\Chad\src\HTTParty.NET\HTTParty.NET\obj\Release\HTTParty.NET.dll
+c:\Users\Chad\src\HTTParty.NET\HTTParty.NET\obj\Release\HTTParty.NET.pdb
