@@ -9,7 +9,7 @@ namespace httparty
     {
         public static Response Get(string url)
         {
-            return new Response();
+            return new Response("", new Headers());
         }
     }
 }

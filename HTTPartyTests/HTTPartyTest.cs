@@ -16,4 +16,15 @@ namespace HTTPartyTests
             Assert.That(httparty.Party.Get("http://foo.com"), Is.InstanceOf(typeof(httparty.Response)));
         }
     }
+
+    [TestFixture]
+    public class ResponseTest
+    {
+        [Test]
+        public void CanReturnRawResponseBody()
+        {
+            Response response = new Response("raw body", new Headers());
+            Assert.That("raw body", Is.EqualTo(response.Body));
+        }
+    }
 }
