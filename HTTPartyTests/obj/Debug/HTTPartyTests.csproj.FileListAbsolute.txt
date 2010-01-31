@@ -1,7 +1,0 @@
-C:\Users\Chad\src\HTTParty.NET\HTTPartyTests\bin\Debug\HTTPartyTests.dll
-C:\Users\Chad\src\HTTParty.NET\HTTPartyTests\bin\Debug\HTTPartyTests.pdb
-C:\Users\Chad\src\HTTParty.NET\HTTPartyTests\bin\Debug\nunit.framework.dll
-C:\Users\Chad\src\HTTParty.NET\HTTPartyTests\bin\Debug\nunit.framework.xml
-C:\Users\Chad\src\HTTParty.NET\HTTPartyTests\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Chad\src\HTTParty.NET\HTTPartyTests\obj\Debug\HTTPartyTests.dll
-C:\Users\Chad\src\HTTParty.NET\HTTPartyTests\obj\Debug\HTTPartyTests.pdb

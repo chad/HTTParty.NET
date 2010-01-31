@@ -1,5 +1,0 @@
-C:\Users\Chad\src\HTTParty.NET\HTTParty.NET\bin\Debug\HTTParty.NET.dll
-C:\Users\Chad\src\HTTParty.NET\HTTParty.NET\bin\Debug\HTTParty.NET.pdb
-C:\Users\Chad\src\HTTParty.NET\HTTParty.NET\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Chad\src\HTTParty.NET\HTTParty.NET\obj\Debug\HTTParty.NET.dll
-C:\Users\Chad\src\HTTParty.NET\HTTParty.NET\obj\Debug\HTTParty.NET.pdb
